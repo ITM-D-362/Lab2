@@ -16,7 +16,7 @@ label {
 
 input {
 width: 95%;
-
+border-style: dashed;
 }
 
 input [type=submit] {
