@@ -1,6 +1,6 @@
 body {
 	text-align:center;
-	background-color: ##f9be53;
+	background-color: #f9be53;
 
 }
 h1 {
@@ -25,9 +25,10 @@ input [type=submit] {
 
 
 @media only screen and (min-width: 800px){
-	body{background-color: ##0782fc;
+	body{
+		background-color: #0782fc;
 	}
-	
+
 	input {
 		width: 50%;
 	}
